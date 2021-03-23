@@ -1,0 +1,4 @@
+Hauptprogramm:
+g++ main.cpp  Bruchberechner.cpp Berechner.cpp Bruch.cpp -o Bruchrechner -std=c++17 -Wall
+Testprogramm: 
+g++ mainTest.cpp  Bruchberechner.cpp Berechner.cpp Bruch.cpp -o BruchrechnerTest -std=c++17 -Wall
